@@ -1,4 +1,4 @@
-local Me = setmetatable({}, {__index = {IsFriend = true}}
+local Me = setmetatable({}, {__index={IsFriend = true}}
 
 Me.Name = "W. David"    
 Me.Age = 15    
