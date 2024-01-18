@@ -1,14 +1,12 @@
-local Me = setmetatable({},{
-    __index = {IsFriend = true}
-}
+local Me = setmetatable({}, {__index = {IsFriend = true}}
 
-Me.Name = "W. David"
-Me.Age = 15
-Me.Location = "McDonald's"
-Me.Case = "PascalCase"
-Me.FavLangSyntax = "Lua"
-Me.Prev = {"GameDev", "WebDev"}
-Me.Curr = "AppDev"
+Me.Name = "W. David"    
+Me.Age = 15    
+Me.Location = "McDonalds"    
+Me.Case = "PascalCase"    
+Me.FavLangSyntax = "Lua"    
+Me.Prev = {"GameDev", "WebDev"}    
+Me.Curr = "AppDev"    
 
-table.freeze(Me)
+table.freeze(Me)    
 return Me
