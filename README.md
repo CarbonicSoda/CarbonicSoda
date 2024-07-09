@@ -1,1 +1,1 @@
-15 y/o IT enthusiast
+Obsessed with Math and CS
