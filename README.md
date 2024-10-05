@@ -1,1 +1,1 @@
-Obsessed with Math and CS
+Obsessed with Math
