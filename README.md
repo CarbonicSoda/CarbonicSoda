@@ -1,1 +1,1 @@
-I love Math, Badminton and Index
+Lovin' Maths, Badminton and Index
