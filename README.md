@@ -1,1 +1,1 @@
-Lovin' Maths, Badminton and Index
+Lovin' Badminton, Maths and Index
