@@ -1,5 +1,5 @@
 <h3 align="center" style="margin-bottom: -15px">
-	<img src="https://avatars.githubusercontent.com/u/156987370" width="200" alt="Profile Icon">
+	<img src="https://avatars.githubusercontent.com/u/156987370" width="150" alt="Profile Icon">
 	<p></p>
   Lovin' Badminton, Maths and Index
 </h3>
