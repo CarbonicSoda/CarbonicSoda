@@ -10,7 +10,7 @@ Nice to meet you! I'm CarbonicSoda (<i>David W.</i>), Hello Worlded 02/08/2008.
 I'm a keen maths lover, and play badminton well.
 Most importantly, I love Index from <i>A Certain Magical Index</i>!
 	
-I'm mainly interested in maths-related researches and fast project prototyping.
+I'm mainly interested in maths-related researches and fast prototyping.
 </pre>
 
 ---
