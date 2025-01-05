@@ -7,10 +7,10 @@
 <pre align="center">
 Nice to meet you! I'm CarbonicSoda (<i>carbonsoda</i>), born 02/08/2008.
 	
-I'm a keen Maths lover, and plays badminton well.
+I'm a keen maths lover, and plays badminton well.
 Most importantly, I love Index from <i>A Certain Magical Index</i>!
 	
-I am mainly interested in researches and fast project prototyping.
+I am mainly interested in maths-related researches and fast project prototyping.
 </pre>
 
 ---
