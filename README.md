@@ -5,7 +5,7 @@
 </h3>
 
 <pre align="center">
-Nice to meet you! I'm CarbonicSoda (<i>David Y.C.</i>), Hello Worlded 02/08/2008.
+Nice to meet you! I'm CarbonicSoda (<i>David W.</i>), Hello Worlded 02/08/2008.
 	
 I'm a keen maths lover, and plays badminton well.
 Most importantly, I love Index from <i>A Certain Magical Index</i>!
