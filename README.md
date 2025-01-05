@@ -1,13 +1,11 @@
-<h3 align="center" style="margin-bottom: -15px">
-	<img src="https://avatars.githubusercontent.com/u/156987370" width="150" alt="Profile Icon">
+<h3 align="center">
+	<img src="https://avatars.githubusercontent.com/u/156987370" width="120" alt="Profile Icon" />
 	<p></p>
-  Lovin' Badminton, Maths and Index
+	Hello World!
 </h3>
-<h3 align="center">Hello World!</h3>
 
 <pre align="center">
-Nice to meet you! I'm CarbonicSoda (<i>carbonsoda</i>).
-My birthday is on 02/08/2008.
+Nice to meet you! I'm CarbonicSoda (<i>carbonsoda</i>), born 02/08/2008.
 </pre>
 
 <pre align="center">
@@ -16,7 +14,7 @@ Most importantly, I love Index from <i>A Certain Magical Index</i>!
 </pre>
 
 <pre align="center">
-Currently, I am mainly interested in researches and fast project prototyping.
+I am mainly interested in researches and fast project prototyping.
 </pre>
 
 ---
