@@ -6,14 +6,10 @@
 
 <pre align="center">
 Nice to meet you! I'm CarbonicSoda (<i>carbonsoda</i>), born 02/08/2008.
-</pre>
-
-<pre align="center">
+	
 I'm a keen Maths lover, and plays badminton well.
 Most importantly, I love Index from <i>A Certain Magical Index</i>!
-</pre>
-
-<pre align="center">
+	
 I am mainly interested in researches and fast project prototyping.
 </pre>
 
