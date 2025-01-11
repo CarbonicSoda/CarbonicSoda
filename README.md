@@ -17,4 +17,5 @@ I'm mainly interested in maths-related researches and fast prototyping.
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=CarbonicSoda&hide=stars,prs,issues,contribs&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true&show_icons=true&disable_animations=true&text_bold=false&text_color=4DA6FF&icon_color=4DA6FF" />
 </div>
 
+---
 <p align="center"><i>Every man and woman is a star</i></p>
