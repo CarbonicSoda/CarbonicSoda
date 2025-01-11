@@ -14,7 +14,7 @@ I'm mainly interested in maths-related researches and fast prototyping.
 </pre>
 
 <div align="center">
-  <img width="500" src="https://raw.githubusercontent.com/CarbonicSoda/CarbonicSoda/refs/heads/main/github-metrics.svg" />
+  <img width="500" src="https://raw.githubusercontent.com/CarbonicSoda/CarbonicSoda/refs/heads/master/github-metrics.svg" />
 </div>
 
 ---
