@@ -17,5 +17,6 @@ jobs:
         plugin_isocalendar: yes
         plugin_languages: yes
         plugin_languages_indepth: yes
+        commits_authoring: CarbonicSoda, carbonsoda, carbonsoda@outlook.com
         plugin_languages_sections: recently-used
         plugin_languages_recent_days: 365
