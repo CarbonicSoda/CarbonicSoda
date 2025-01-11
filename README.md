@@ -14,7 +14,7 @@ I'm mainly interested in maths-related researches and fast prototyping.
 </pre>
 
 <h6 align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=CarbonicSoda&hide=stars,prs,issues,contribs&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true&show_icons=true&text_bold=false&disable_animations=true&card_width=270px" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=CarbonicSoda&hide=stars,prs,issues,contribs&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true&show_icons=true&text_bold=false&disable_animations=true" />
 </h6>
 
 ---
