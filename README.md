@@ -7,7 +7,7 @@
 <pre align="center">
 Ahoy! I'm CarbonicSoda (<i>David W.</i>), Hello World 02/08/2008.
 	
-A keen maths lover, play badminton well.
+Keen maths lover, play badminton well.
 Most importantly, I love Index from <i>A Certain Magical Index</i>!
 	
 Mainly interested in maths-related researches and fast prototyping.
