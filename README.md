@@ -1,16 +1,14 @@
 <h3 align="center">
-	<img src="https://avatars.githubusercontent.com/u/156987370" width="120" alt="Profile Icon" />
-	<p></p>
-	Hello World!
+	<img src="https://avatars.githubusercontent.com/u/156987370" width="150" alt="CarbonicSoda Profile Icon" />
 </h3>
 
 <pre align="center">
-Ahoy! I'm CarbonicSoda (<i>David W.</i>), Hello World 02/08/2008.
+Hail, the name is David W., Hello World 02/08/2008
 	
-Keen maths lover, play badminton well.
-Most importantly, I love Index from <i>A Certain Magical Index</i>!
+Keen Maths and badminton lover
+Above all, love Index from Toaru Majutsu no Index
 	
-Mainly interested in maths-related researches and fast prototyping.
+Chiefly focused on Maths-/CS-related research and rapid prototyping
 </pre>
 
 <div align="center">
