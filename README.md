@@ -5,8 +5,8 @@
 <pre align="center">
 Hail, the name is David W., Hello World 02/08/2008
 	
-Keen Maths and badminton lover
-Above all, love Index from Toaru Majutsu no Index
+Keen Maths and badminton devotee
+Above all, I love Index from Toaru Majutsu no Index
 	
 Chiefly focused on Maths-/CS-related research and rapid prototyping
 </pre>
