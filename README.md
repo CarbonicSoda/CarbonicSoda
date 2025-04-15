@@ -3,7 +3,7 @@
 </h3>
 
 <pre align="center">
-Hail, the name is David W., Hello World 02/08/2008
+Hail, the name is David W, Hello World 02/08/2008
 	
 Keen Maths and badminton devotee
 Above all, I love Index from Toaru Majutsu no Index
