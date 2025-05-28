@@ -1,18 +1,11 @@
 <h3 align="center">
-	<img src="https://avatars.githubusercontent.com/u/156987370" width="150" alt="CarbonicSoda Profile Icon" />
+	<img src="https://avatars.githubusercontent.com/u/156987370" width="150" alt="rose and blood" />
 </h3>
 
-<pre align="center">
-Hail, the name is David W, Hello World 02/08/2008
-	
-Keen Maths and badminton devotee
-Above all, I love Index from Toaru Majutsu no Index
-	
-Chiefly focused on Maths-/CS-related research and rapid prototyping
-</pre>
+<p align="center">David W (2008-), love Badminton, Maths, and Index.</p>
 
 <div align="center">
-  <img width="500" src="https://raw.githubusercontent.com/CarbonicSoda/CarbonicSoda/refs/heads/master/github-metrics.svg" />
+  <img width="500" src="https://raw.githubusercontent.com/CarbonicSoda/CarbonicSoda/refs/heads/master/github-metrics.svg" alt="contributions" />
 </div>
 
 ---
