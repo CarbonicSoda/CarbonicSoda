@@ -2,7 +2,7 @@
 	<img src="https://avatars.githubusercontent.com/u/156987370" width="150" alt="rose and blood" />
 </h3>
 
-<p align="center">David W (2008-), love Badminton, Maths, and Index.</p>
+<p align="center">David W, love Badminton, Maths, Index, Cosmos.</p>
 
 <div align="center">
   <img width="500" src="https://raw.githubusercontent.com/CarbonicSoda/CarbonicSoda/refs/heads/master/github-metrics.svg" alt="contributions" />
