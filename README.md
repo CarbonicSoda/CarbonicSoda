@@ -4,10 +4,6 @@
 
 <p align="center">Badminton, Maths, Index, Cosmos</p>
 
-<div align="center">
-	<img width="500" src="https://raw.githubusercontent.com/CarbonicSoda/CarbonicSoda/refs/heads/master/github-metrics.svg" alt="contributions" />
-</div>
-
 ---
 
 <p align="center"><i>Every man and woman is a star</i></p>
