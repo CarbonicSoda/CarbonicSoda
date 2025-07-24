@@ -6,4 +6,4 @@
 
 ---
 
-<p align="center"><i>Every man and woman is a star</i></p>
+<p align="center">Every man and woman is a star</p>
